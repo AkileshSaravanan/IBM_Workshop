@@ -32,4 +32,4 @@ Finally we can see the **overview of the Social Network Analysis of the cricket 
 
 To know more about me or follow,
 
-<li><a href="http://www.linkedin.com/in/Akilesh--S">LinkedIn</a> 
+<li><a href="http://www.linkedin.com/in/Akilesh--S">LinkedIn</a>   
