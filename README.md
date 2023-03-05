@@ -1,12 +1,14 @@
 # IBM_Workshop
+
 # AUTHOR = AKILESH S,
+
 The above listed codes and information are unique and it is open source to use.
 
 This workshop was new Experience for me and I gained more new things and I learned to improve myself more things.
 
 I learned a new tool to do Social Network Analysis.
 
-The tool I learned newly is = "Gephi".
+The tool I learned newly is = **"Gephi"**.
 
 By using this tool is learned to analysis the network of any person or relationship of anyperson by considering many attributes.
 
@@ -24,4 +26,4 @@ Now we can start analysing the Network by doing the analysis and we can see visu
 
 In the preview setting, I modified Nodes functions, Node Labels functions, edges, edge arrows, edge labels, etc.. to make my network analysis the best graph.
 
-Finally we can see the overview of the Social Network Analysis of the cricket Players using Gephi Tool.
+Finally we can see the **overview of the Social Network Analysis of the cricket Players** using Gephi Tool.
