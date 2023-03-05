@@ -4,6 +4,8 @@
 
 The above listed codes and information are unique and it is open source to use.
 
+Cricket Players Social Network Analysis using Gephi.pdf contains the full accomplish step I done.
+
 This workshop was new Experience for me and I gained more new things and I learned to improve myself more things.
 
 I learned a new tool to do Social Network Analysis.
