@@ -29,3 +29,7 @@ Now we can start analysing the Network by doing the analysis and we can see visu
 In the preview setting, I modified Nodes functions, Node Labels functions, edges, edge arrows, edge labels, etc.. to make my network analysis the best graph.
 
 Finally we can see the **overview of the Social Network Analysis of the cricket Players** using Gephi Tool.
+
+To know more about me or follow,
+
+<li><a href="http://www.linkedin.com/in/Akilesh--S">LinkedIn</a> 
